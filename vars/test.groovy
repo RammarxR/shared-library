@@ -3,3 +3,4 @@ def call(String name, String dayOfWeek) {
 }
 hello Rammarx
 this is new channel
+welocome home
